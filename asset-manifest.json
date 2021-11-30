@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ejam-ecom/static/css/main.6b1d74b6.chunk.css",
-    "main.js": "/ejam-ecom/static/js/main.a132d2e4.chunk.js",
-    "main.js.map": "/ejam-ecom/static/js/main.a132d2e4.chunk.js.map",
+    "main.js": "/ejam-ecom/static/js/main.bf558864.chunk.js",
+    "main.js.map": "/ejam-ecom/static/js/main.bf558864.chunk.js.map",
     "runtime-main.js": "/ejam-ecom/static/js/runtime-main.6a8502fa.js",
     "runtime-main.js.map": "/ejam-ecom/static/js/runtime-main.6a8502fa.js.map",
     "static/js/2.6816f740.chunk.js": "/ejam-ecom/static/js/2.6816f740.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6a8502fa.js",
     "static/js/2.6816f740.chunk.js",
     "static/css/main.6b1d74b6.chunk.css",
-    "static/js/main.a132d2e4.chunk.js"
+    "static/js/main.bf558864.chunk.js"
   ]
 }
