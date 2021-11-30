@@ -15,7 +15,6 @@ const Product: React.FC<ProductInterface> = ({
 
   return (
     <div className="product-card">
-      <Viewers />
       <Link to={`/product/${product.id}`}>
         <img src={product.imageUrl} alt="" />
       </Link>
@@ -35,6 +34,7 @@ const Product: React.FC<ProductInterface> = ({
                 <>+ Free shipping</>
               )}
             </span>
+            <Viewers />
           </div>
         </div>
         <div className="star-wrapper"></div>

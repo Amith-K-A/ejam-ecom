@@ -1,6 +1,6 @@
 export interface CardDetails {
   number: Number;
-  date: Number;
+  date: Number ;
   cvv: Number;
 }
 

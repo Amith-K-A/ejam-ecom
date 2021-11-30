@@ -35,7 +35,6 @@ const PlaceOrder:React.FC<PlaceOrderInterface> = ({ address, totalPrice, items, 
             placeholder="Enter your Card Number"
             onChange={(event: any) => setNumber(event.target.value)}
             id="number"
-            value={number}
             type="number"
             required={true}
           />
@@ -46,7 +45,6 @@ const PlaceOrder:React.FC<PlaceOrderInterface> = ({ address, totalPrice, items, 
             placeholder="Enter your card Expiration in MM/YY formate"
             onChange={(event: any) => setDate(event.target.value)}
             id="date"
-            value={date}
             required={true}
           />
         </div>
@@ -57,7 +55,6 @@ const PlaceOrder:React.FC<PlaceOrderInterface> = ({ address, totalPrice, items, 
             onChange={(event: any) => setCvv(event.target.value)}
             type="number"
             id="cvv"
-            value={cvv}
             required={true}
           />
         </div>
