@@ -12,7 +12,7 @@ import "./App.css";
 function App() {
   return (
     <Provider store={store}>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Switch>
           <PrivateRoute exact path="/" component={Home} />
           <PrivateRoute exact path="/checkout" component={Checkout} />
