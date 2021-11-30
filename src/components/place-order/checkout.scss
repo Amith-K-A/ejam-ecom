@@ -1,0 +1,107 @@
+.titleCloseBtn {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.titleCloseBtn button {
+  background-color: transparent;
+  border: none;
+  font-size: 25px;
+  cursor: pointer;
+}
+
+.modalContainer .body {
+  flex: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.7rem;
+  text-align: center;
+}
+
+.modalContainer .footer {
+  flex: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modalContainer .footer button {
+  width: 150px;
+  height: 45px;
+  margin: 10px;
+  border: none;
+  background-color: cornflowerblue;
+  color: white;
+  border-radius: 8px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+#cancelBtn {
+  background-color: crimson;
+}
+
+.checkout-card {
+  display: flex;
+  flex-direction: column;
+  background: #f4f4f4;
+  width: 100%;
+  max-width: 786px;
+  padding: 2em;
+  border-radius: 20px;
+  box-shadow: 0 0 0 300vmax rgba(0, 0, 0, 0.5);
+}
+
+.name {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: auto auto;
+}
+
+.check-box {
+  display: grid;
+  grid-gap: 20px;
+  grid-template-columns: 5px auto;
+  margin-bottom: 20px;
+}
+
+.payment-items {
+  display: grid;
+  grid-template-columns: 35px auto;
+  align-items: center;
+  padding: 7px;
+}
+
+.add-address {
+  display: flex;
+  padding-top: 30px;
+  width: 185px;
+  justify-content: space-between;
+  @media only screen and (max-width: 600px) {
+    display: unset;
+  }
+}
+
+.a {
+  cursor: pointer;
+}
+
+.address-wrapper {
+  display: flex;
+  flex-direction: column;
+  margin: 4% 16% 4% 16%;
+  padding: 5%;
+  background: #b6b6b629;
+}
+
+.next-button {
+  text-align: center;
+  width: 160px;
+  background: #565656;
+  color: #f4f4f4;
+  cursor: pointer;
+  box-shadow: -10px -10px 20px white, 10px 10px 20px rgb(0 0 0 / 40%);
+  border-radius: 10px;
+  padding: 1em;
+}
