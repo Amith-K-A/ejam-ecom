@@ -15,12 +15,12 @@ const Product: React.FC<ProductInterface> = ({
 
   return (
     <div className="product-card">
-      <Link to={`/product/${product.id}`}>
+      <Link to={`/`}>
         <img src={product.imageUrl} alt="" />
       </Link>
       <div className="content">
         <h3>
-          <Link to={`/product/${product.id}`}>{product.name}</Link>
+          <Link to={`/`}>{product.name}</Link>
         </h3>
         <div className="heart-wrapper">
           <div className="price-name-wrapper">
