@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ejam-ecom/static/css/main.b05ae51d.chunk.css",
-    "main.js": "/ejam-ecom/static/js/main.cb99cc93.chunk.js",
-    "main.js.map": "/ejam-ecom/static/js/main.cb99cc93.chunk.js.map",
+    "main.css": "/ejam-ecom/static/css/main.6b1d74b6.chunk.css",
+    "main.js": "/ejam-ecom/static/js/main.a132d2e4.chunk.js",
+    "main.js.map": "/ejam-ecom/static/js/main.a132d2e4.chunk.js.map",
     "runtime-main.js": "/ejam-ecom/static/js/runtime-main.6a8502fa.js",
     "runtime-main.js.map": "/ejam-ecom/static/js/runtime-main.6a8502fa.js.map",
     "static/js/2.6816f740.chunk.js": "/ejam-ecom/static/js/2.6816f740.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.fa974708.chunk.js": "/ejam-ecom/static/js/3.fa974708.chunk.js",
     "static/js/3.fa974708.chunk.js.map": "/ejam-ecom/static/js/3.fa974708.chunk.js.map",
     "index.html": "/ejam-ecom/index.html",
-    "static/css/main.b05ae51d.chunk.css.map": "/ejam-ecom/static/css/main.b05ae51d.chunk.css.map",
+    "static/css/main.6b1d74b6.chunk.css.map": "/ejam-ecom/static/css/main.6b1d74b6.chunk.css.map",
     "static/js/2.6816f740.chunk.js.LICENSE.txt": "/ejam-ecom/static/js/2.6816f740.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6a8502fa.js",
     "static/js/2.6816f740.chunk.js",
-    "static/css/main.b05ae51d.chunk.css",
-    "static/js/main.cb99cc93.chunk.js"
+    "static/css/main.6b1d74b6.chunk.css",
+    "static/js/main.a132d2e4.chunk.js"
   ]
 }
